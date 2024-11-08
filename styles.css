@@ -1,6 +1,7 @@
 body {
     color:rgb(202, 53, 53);
-    background: rgb(23, 223, 206)
+    background: rgb(23, 223, 206);
+    font-family: "Funnel Sans", sans-serif;
 }
 
 header{
@@ -23,3 +24,12 @@ section{
  .chamada-texto{
     margin-right: 5%;
  }
+
+ h1{
+    font-size: 36px;
+ }
+
+ p{
+    font-size: 20px;
+ }
+ 
