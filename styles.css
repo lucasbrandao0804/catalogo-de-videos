@@ -4,18 +4,18 @@ body {
 }
 
 header{
-    border-bottom: solid  2px var(rgb(46, 106, 235));
+    border-bottom: solid  2px rgb(46, 106, 235);
     padding: 20px;
     font-size: 30px;
     color: rgd(46, 106, 235);
 }
 
 section{
-    background: #5a70b3 
+    background: #5a70b3;
     padding: bottom 80px;
     padding-top: 80px; 
     display: flex;
-    justify: center;
+    justify-content: center;
 
 
 }
